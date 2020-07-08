@@ -10,12 +10,12 @@ You will need to calculate your monthly take home pay after taxes in order to be
 
 In order to make it in New York City, you have decided to split a two-bedroom apartment with a friend. You will have to budget for rent, food and entertainment, but it's also a good idea to allocate an amount for unforeseen expenses each month. This unforeseen expenses budget could be used for anything ranging from new clothes or electronics to doctor appointments.
 
-### Set up your monthly budget as follows:
+### Set up the monthly budget as follows:
 
-Rent: $1200 / month (Includes utilities)
-Food: $30 / day (On average. Includes groceries and eating out.)
-Entertainment: $200 / month (Movies, drinks, museums, parties...)
-Unforeseen Expenses: 250 / month (Stay safe, and don't drop your phone!)
+- Rent: $1200 / month (Includes utilities)
+- Food: $30 / day (On average. Includes groceries and eating out.)
+- Entertainment: $200 / month (Movies, drinks, museums, parties...)
+- Unforeseen Expenses: 250 / month (Stay safe, and don't drop your phone!)
 For this application, assume an average of 30 days per month. Whatever is left after your paying your monthly expenses will go into your savings account each month.
 
 ## Forecast Salary Growth and Cost of Living
@@ -25,14 +25,12 @@ You can assume an annual salary growth rate of 5%, which means if you start at $
 
 For this application, assume all inflation and salary growth happens in smaller increments on a monthly basis instead of just one large increase at the end of each year.
 
-# Calculate Your Net Worth
-Now that you have forecasted your savings and salary over time while taking career progression and inflation into account, you have constructed a time-series which you can use to calculate your cash flows, just like in Chapter 1.
-
+# Calculating One's Net Worth
 For this example, all you need to do is subtract your forecasted monthly expenses from your forecasted monthly salary. The remaining cash flow will go straight into your savings account for each month.
 
 You want to project your cumulative savings over time to see how effective your budgeting process will be given your projections.
 
-## So You Want to Be a Millionaire?
+## How much more to Be a Millionaire?
 Your projections show that you can accumulate over $700,000 in just 15 years by following a strict budget and growing your salary steadily over time.
 
 But you want to be a millionaire in 15 years, retire young, sip margaritas and travel for the rest of your life. In order to do that, you're going to need to invest.
@@ -45,7 +43,7 @@ You know that the stock market doesn't always go up, but you will assume a modes
 
 The forecast_months variable from the previous exercise is available.
 
-## Investing a Percentage of Your Income (I)
+## Investing a Percentage of Income
 Unfortunately, you really can't afford to save $3,000 per month in order to amass $1,000,000 after only 15 years.
 
 But what you can do is start slowly, investing a small percentage of your take-home income each month, which should grow over time as your income grows as well.
